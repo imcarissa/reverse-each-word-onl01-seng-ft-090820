@@ -1,5 +1,5 @@
 def reverse_each_word(sentence1)
-  binding pry
+  binding.pry
   sentence1 = []
     sentence1.collect do sentence1.reverse
   end
