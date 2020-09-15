@@ -1,2 +1,3 @@
-def reverse_each_word(rap)
+def reverse_each_word(sentence1)
+  
 end
