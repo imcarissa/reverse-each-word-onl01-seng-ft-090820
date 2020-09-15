@@ -6,4 +6,4 @@ def reverse_each_word(sentence1)
   greeting << word.reverse
   end
     greeting
-  end
+end
