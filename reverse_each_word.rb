@@ -1,2 +1,3 @@
 def reverse_each_word(rap)
-  string = 
+  string = "I got 99 problems and Ruby aint one"
+  string.reverse
